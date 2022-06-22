@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Birdo3D !</h1>
-<h3 align="center">I love 3D printing and i develop in java</h3>
 
 - 🔭 I’m currently working on [ElectricTools](https://github.com/Birdo3D/ElectricTools)
 
