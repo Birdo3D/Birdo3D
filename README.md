@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **C++**
 
-<p align="left"><i>"Passionate about everything"<i></p>
+<p align="left"><i>"Passionate about everything"</i></p>
 
 <h3 align="left">Languages :</h3>
 <p align="left"> 
